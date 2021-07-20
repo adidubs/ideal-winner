@@ -20,6 +20,6 @@ public class taxprogram {
 
         }
         System.out.println("The total tax is paid is : " + tax);
-
+        System.out.println("End of the program.");
     }
 }
